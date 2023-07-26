@@ -1,6 +1,6 @@
 ### Hi! mi name is Fatima!
 
-#### I am a Full Stack developer with a specialized focus on the frontend. My greatest desire is to find new and exciting opportunities to apply my skills and knowledge. I am driven by a passion for creating captivating and highly functional digital experiences through the combination of graphic design and web development.
+#### I am a Fontend developer. My greatest desire is to find new and exciting opportunities to apply my skills and knowledge. I am driven by a passion for creating captivating and highly functional digital experiences through the combination of graphic design and web development.
 
 #### I thoroughly enjoy delivering aesthetically appealing and technically sound solutions, finding great satisfaction in seeing projects come to life through my dedication. My objective is to make a difference in every project I participate in, ensuring that every detail is carefully crafted.
 
