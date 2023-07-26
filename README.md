@@ -20,21 +20,17 @@
 [![Redux](https://img.shields.io/badge/Redux-grey?logo=redux&logoColor=violet&style=for-the-badge&title=)](https://redux.js.org/)
 [![React](https://img.shields.io/badge/React-grey?logo=react&logoColor=cyan&style=for-the-badge&title=)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-grey?logo=vite&logoColor=white&style=for-the-badge&title=)](https://vitejs.dev/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&logoColor=blue&style=for-the-badge&title=)](https://www.postgresql.org/)
 
 ---
 ### Design Tools
 
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-grey?logo=adobe%20illustrator&logoColor=FF9A00&style=for-the-badge&title=)](https://www.adobe.com/products/illustrator.html)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-grey?logo=adobe%20photoshop&logoColor=31A8FF&style=for-the-badge&title=)](https://www.adobe.com/products/photoshop.html)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-grey?logo=adobe%20premiere%20pro&logoColor=31A8FF&style=for-the-badge&title=)](https://www.adobe.com/products/premiere.html)
-[![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-grey?logo=adobe%20indesign&logoColor=FF3366&style=for-the-badge&title=)](https://www.adobe.com/products/indesign.html)
-
 ---
 ### Contact
 
 #### Are you looking for development talent? Contact me! If you're interested in discussing job opportunities or collaboration, I'll be happy to talk with you. 
 #### You can find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ornella%20C%C3%B3pula-blue?logo=linkedin&style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/ornella-c%C3%B3pula/)
-[![Email](https://img.shields.io/badge/Email-orne.el38%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:orne.el38@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F%C3%A1tima%20Ch%C3%A1vez-blue?logo=linkedin&style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/fatima-chavez-2a4805281/)
+[![Email](https://img.shields.io/badge/Email-fatimachavezmoron%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:fatimachavezmoron@gmail.com)
