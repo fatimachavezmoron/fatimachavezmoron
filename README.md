@@ -9,7 +9,7 @@
 ---
 ### Technical Skills
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=yellow&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=yellow&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=typescript&logoColor=blue&style=for-the-badge&title=)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-grey?logo=html5&logoColor=orange&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-grey?logo=css3&logoColor=blue&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/CSS)
