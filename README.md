@@ -23,6 +23,9 @@
 [![Vite](https://img.shields.io/badge/Vite-333333?logo=vite&logoColor=white&style=for-the-badge&title=)](https://vitejs.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap&logoColor=purple&style=for-the-badge&title=)](https://getbootstrap.com/)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-333333?logo=visual-studio-code&logoColor=blue&style=for-the-badge&title=)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23333333?logo=github&logoColor=white&style=for-the-badge&title=)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-%23333333?logo=gitlab&logoColor=white&style=for-the-badge&title=)](https://gitlab.com/)
+
 
 
 
