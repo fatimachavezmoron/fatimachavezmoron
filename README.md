@@ -20,7 +20,9 @@
 [![Redux](https://img.shields.io/badge/Redux-grey?logo=redux&logoColor=violet&style=for-the-badge&title=)](https://redux.js.org/)
 [![React](https://img.shields.io/badge/React-grey?logo=react&logoColor=cyan&style=for-the-badge&title=)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-grey?logo=vite&logoColor=white&style=for-the-badge&title=)](https://vitejs.dev/)
-[![Boostrap](https://img.shields.io/badge/boostrap-grey?logo=boostrap&logoColor=white&style=for-the-badge&title=)](https://getbootstrap.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap&logoColor=purple&style=for-the-badge&title=)](https://getbootstrap.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-grey?logo=visual-studio-code&logoColor=blue&style=for-the-badge&title=)](https://code.visualstudio.com/)
+
 
 ---
 ### Design Tools
