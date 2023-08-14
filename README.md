@@ -9,19 +9,19 @@
 ---
 ### Technical Skills
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-#333?logo=javascript&logoColor=yellow&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-#333?logo=typescript&logoColor=blue&style=for-the-badge&title=)](https://www.typescriptlang.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-#333?logo=html5&logoColor=orange&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-#333?logo=css3&logoColor=blue&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-#333?logo=tailwind-css&logoColor=teal&style=for-the-badge&title=)](https://tailwindcss.com/)
-[![Sass](https://img.shields.io/badge/Sass-#333?logo=sass&logoColor=pink&style=for-the-badge&title=)](https://sass-lang.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-#333?logo=node.js&logoColor=green&style=for-the-badge&title=)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-#333?logo=express&logoColor=black&style=for-the-badge&title=)](https://expressjs.com/)
-[![Redux](https://img.shields.io/badge/Redux-#333?logo=redux&logoColor=violet&style=for-the-badge&title=)](https://redux.js.org/)
-[![React](https://img.shields.io/badge/React-#333?logo=react&logoColor=cyan&style=for-the-badge&title=)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-#333?logo=vite&logoColor=white&style=for-the-badge&title=)](https://vitejs.dev/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-#333?logo=bootstrap&logoColor=purple&style=for-the-badge&title=)](https://getbootstrap.com/)
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-#333?logo=visual-studio-code&logoColor=blue&style=for-the-badge&title=)](https://code.visualstudio.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=yellow&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript&logoColor=blue&style=for-the-badge&title=)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-333333?logo=html5&logoColor=orange&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-333333?logo=css3&logoColor=blue&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333333?logo=tailwind-css&logoColor=teal&style=for-the-badge&title=)](https://tailwindcss.com/)
+[![Sass](https://img.shields.io/badge/Sass-333333?logo=sass&logoColor=pink&style=for-the-badge&title=)](https://sass-lang.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-333333?logo=node.js&logoColor=green&style=for-the-badge&title=)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-333333?logo=express&logoColor=black&style=for-the-badge&title=)](https://expressjs.com/)
+[![Redux](https://img.shields.io/badge/Redux-333333?logo=redux&logoColor=violet&style=for-the-badge&title=)](https://redux.js.org/)
+[![React](https://img.shields.io/badge/React-333333?logo=react&logoColor=cyan&style=for-the-badge&title=)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-333333?logo=vite&logoColor=white&style=for-the-badge&title=)](https://vitejs.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap&logoColor=purple&style=for-the-badge&title=)](https://getbootstrap.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-333333?logo=visual-studio-code&logoColor=blue&style=for-the-badge&title=)](https://code.visualstudio.com/)
 
 
 
