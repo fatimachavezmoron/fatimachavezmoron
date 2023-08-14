@@ -11,6 +11,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=yellow&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript&logoColor=blue&style=for-the-badge&title=)](https://www.typescriptlang.org/)
+[![JSX](https://img.shields.io/badge/JSX-%23333333?logo=react&logoColor=blue&style=for-the-badge&title=)](https://reactjs.org/docs/introducing-jsx.html)
 [![HTML5](https://img.shields.io/badge/HTML5-333333?logo=html5&logoColor=orange&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-333333?logo=css3&logoColor=blue&style=for-the-badge&title=)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333333?logo=tailwind-css&logoColor=teal&style=for-the-badge&title=)](https://tailwindcss.com/)
