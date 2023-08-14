@@ -38,4 +38,5 @@
 #### You can find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F%C3%A1tima%20Ch%C3%A1vez-blue?logo=linkedin&style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/fatima-chavez-2a4805281/)
-[![Email](https://img.shields.io/badge/Email-fatimachavezmoron%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:fatimachavezmoron@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fatimachavezmoron%40gmail.com-%23333333?logo=gmail&style=for-the-badge)](mailto:fatimachavezmoron@gmail.com)
+
