@@ -28,8 +28,8 @@
 ---
 ### Design Tools
 
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-grey?logo=adobe%20illustrator&logoColor=FF9A00&style=for-the-badge&title=)](https://www.adobe.com/products/illustrator.html)
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-grey?logo=adobe%20photoshop&logoColor=31A8FF&style=for-the-badge&title=)](https://www.adobe.com/products/photoshop.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-333333?logo=adobe%20illustrator&logoColor=FF9A00&style=for-the-badge&title=)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333333?logo=adobe%20photoshop&logoColor=31A8FF&style=for-the-badge&title=)](https://www.adobe.com/products/photoshop.html)
 ---
 ### Contact
 
